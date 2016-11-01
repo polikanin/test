@@ -1378,13 +1378,16 @@
       transform: rotate(-45deg);
       -webkit-transform: rotate(-45deg); }
 
-.s1 {
-  height: 600px; }
+.text {
+  text-align: center;
+  margin-top: 40%;
+  font-size: 100px;
+  font-family: Arial;
+  color: red; }
 
 body {
   padding: 0;
-  margin: 0;
-  background-color: red; }
+  margin: 0; }
 
 .wrapper {
   width: 1170px;
